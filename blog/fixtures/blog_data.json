@@ -1,0 +1,35 @@
+[
+{
+  "fields": {
+    "text": "asdf sadfasdfasdf asdf",
+    "published_date": null,
+    "created_data": "2015-07-16T04:47:46Z",
+    "title": "Rodney",
+    "author": 1
+  },
+  "pk": 1,
+  "model": "blog.post"
+},
+{
+  "fields": {
+    "text": "Blur is the best band EVER.",
+    "published_date": "2015-07-16T04:48:15Z",
+    "created_data": "2015-07-16T04:48:00Z",
+    "title": "Song 2",
+    "author": 1
+  },
+  "pk": 2,
+  "model": "blog.post"
+},
+{
+  "fields": {
+    "text": "It's good for you. Period.",
+    "published_date": "2015-07-16T04:48:40Z",
+    "created_data": "2015-07-16T04:48:24Z",
+    "title": "Chocolate",
+    "author": 1
+  },
+  "pk": 3,
+  "model": "blog.post"
+}
+]
